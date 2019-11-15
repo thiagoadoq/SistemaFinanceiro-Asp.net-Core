@@ -71,7 +71,7 @@ using NonFactors.Mvc.Grid;
             WriteLiteral("\r\n<h2></h2>\r\n\r\n<p>\r\n    ");
             EndContext();
             BeginContext(123, 58, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "34619ba3b4bd46ee994d6e7ef8542b0a", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e0bfa0eb4a2548568513a6e09225cbac", async() => {
                 BeginContext(168, 9, true);
                 WriteLiteral("Adicionar");
                 EndContext();
@@ -108,7 +108,7 @@ Write(Html.AjaxGrid(Url.Action("IndexGrid")));
                 WriteLiteral("\r\n    ");
                 EndContext();
                 BeginContext(259, 54, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2068a1ea663246d5bffcd7a9da8e31c3", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9d2c61fff8124c26be157946a8c0a5c6", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();

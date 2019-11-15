@@ -167,3 +167,4 @@ C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\obj\
 C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.pdb
 C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.csproj.CopyComplete
 C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Terceiros\IndexGrid.cshtml.g.cs
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Financeiro\IndexGrid.cshtml.g.cs

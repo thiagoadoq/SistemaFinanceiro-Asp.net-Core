@@ -5,8 +5,9 @@
         .Build(columns =>
         {
             columns.Add(model => model.Id).Css("collapse");
-            columns.Add(model => model.Nome).Titled("Nome").Encoded(false).RenderedAs(model => "<a href='/Painel/TerceiroEditar/" + model.Id + "'>" + model.Nome + "</a>").InitialSort(GridSortOrder.Asc);
-            columns.Add(model => model.Endereco).Titled("Endereço");
+            columns.Add(model => model.Nome).Titled("NOME").Encoded(false).RenderedAs(model => "<a href='/Painel/TerceiroEditar/" + model.Id + "'>" + model.Nome + "</a>").InitialSort(GridSortOrder.Asc);
+            columns.Add(model => model.Endereco).Titled("ENDEREÇO");
+            columns.Add(Model => Model.Cpf).Titled("CPF");
            
         })
         .Css("table table-hover")

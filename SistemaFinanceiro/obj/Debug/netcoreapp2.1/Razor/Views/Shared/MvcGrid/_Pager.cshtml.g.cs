@@ -254,7 +254,7 @@ WriteAttributeValue(" ", 225, Model.CssClasses, 226, 17, false);
             WriteLiteral("                                ");
             EndContext();
             BeginContext(2041, 55, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6bedb6867f2b4919a2733d8d0ddfb661", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2dad2a0e35064075bd3f32d18f15a056", async() => {
                 BeginContext(2077, 10, false);
 #line 54 "C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\Views\Shared\MvcGrid\_Pager.cshtml"
                                                               Write(size.Value);
@@ -300,7 +300,7 @@ WriteAttributeValue(" ", 225, Model.CssClasses, 226, 17, false);
             WriteLiteral("                                ");
             EndContext();
             BeginContext(2226, 46, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "990af03c9a6d42d7b5c3ef1e7036a30e", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4af967b2f98948bd961fd46ff20cd21b", async() => {
                 BeginContext(2253, 10, false);
 #line 58 "C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\Views\Shared\MvcGrid\_Pager.cshtml"
                                                      Write(size.Value);
