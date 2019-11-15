@@ -26,6 +26,13 @@ namespace SistemaFinanceiro.Controllers
             return View(_Context.Terceiros.ToList());
         }
 
+        //Modelo de grids
+        public IActionResult IndexGrid(string search)
+        {
+            return PartialView(string.IsNullOrWhiteSpace(search) ? _Context.Terceiros.AsQueryable() : _Context.Terceiros.Where(c =>
+                c.Nome.Contains(search) || c.Cpf.Contains(search) || c.Endereco.Contains(search)));
+
+        }
 
         // GET: Terceiros/Edit/5
         public ActionResult Edit(int? id)

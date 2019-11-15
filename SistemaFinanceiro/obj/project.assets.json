@@ -12569,11 +12569,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\financeiro-construtora\\SistemaFinanceiro\\SistemaFinanceiro.csproj",
+      "projectUniqueName": "C:\\Projetos\\Projeto GitHub\\SistemaFinanceiro-Asp.net-Core\\SistemaFinanceiro\\SistemaFinanceiro.csproj",
       "projectName": "SistemaFinanceiro",
-      "projectPath": "C:\\Projetos\\financeiro-construtora\\SistemaFinanceiro\\SistemaFinanceiro.csproj",
+      "projectPath": "C:\\Projetos\\Projeto GitHub\\SistemaFinanceiro-Asp.net-Core\\SistemaFinanceiro\\SistemaFinanceiro.csproj",
       "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\financeiro-construtora\\SistemaFinanceiro\\obj\\",
+      "outputPath": "C:\\Projetos\\Projeto GitHub\\SistemaFinanceiro-Asp.net-Core\\SistemaFinanceiro\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -123,3 +123,47 @@ C:\Projetos\financeiro-construtora\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Raz
 C:\Projetos\financeiro-construtora\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\IndexGrid.cshtml.g.cs
 C:\Projetos\financeiro-construtora\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Projetos\financeiro-construtora\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\bin\Debug\netcoreapp2.1\SistemaFinanceiro.deps.json
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\bin\Debug\netcoreapp2.1\SistemaFinanceiro.runtimeconfig.json
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\bin\Debug\netcoreapp2.1\SistemaFinanceiro.runtimeconfig.dev.json
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\bin\Debug\netcoreapp2.1\SistemaFinanceiro.dll
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\bin\Debug\netcoreapp2.1\SistemaFinanceiro.pdb
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\bin\Debug\netcoreapp2.1\SistemaFinanceiro.Views.dll
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\bin\Debug\netcoreapp2.1\SistemaFinanceiro.Views.pdb
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.csprojAssemblyReference.cache
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.RazorAssemblyInfo.cache
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.RazorAssemblyInfo.cs
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.AssemblyInfoInputs.cache
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.AssemblyInfo.cs
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.TagHelpers.input.cache
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.TagHelpers.output.cache
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.RazorCoreGenerate.cache
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Acesso\Index.cshtml.g.cs
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Financeiro\Edit.cshtml.g.cs
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Financeiro\Index.cshtml.g.cs
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Shared\MvcGrid\_Grid.cshtml.g.cs
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Shared\MvcGrid\_Pager.cshtml.g.cs
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Terceiros\Edit.cshtml.g.cs
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Terceiros\Index.cshtml.g.cs
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Edit.cshtml.g.cs
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Index.cshtml.g.cs
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\IndexGrid.cshtml.g.cs
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.RazorTargetAssemblyInfo.cache
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.RazorTargetAssemblyInfo.cs
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.Views.pdb
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.dll
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.pdb
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.csproj.CopyComplete
+C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Terceiros\IndexGrid.cshtml.g.cs
