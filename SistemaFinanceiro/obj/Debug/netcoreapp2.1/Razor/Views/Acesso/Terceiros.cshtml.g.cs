@@ -70,9 +70,15 @@ using NonFactors.Mvc.Grid;
             BeginContext(103, 24, true);
             WriteLiteral("\r\n<h2></h2>\r\n\r\n<p>\r\n    ");
             EndContext();
+<<<<<<< HEAD:SistemaFinanceiro/obj/Debug/netcoreapp2.1/Razor/Views/Acesso/Terceiros.cshtml.g.cs
             BeginContext(127, 67, false);
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0051ec0946ef4c17af386bbf64bd824a", async() => {
                 BeginContext(181, 9, true);
+=======
+            BeginContext(123, 58, false);
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "69f418d1941c45ee832fd7b813112df5", async() => {
+                BeginContext(168, 9, true);
+>>>>>>> f23d3bec83a590cd8e376e1b6605986d54d5fcca:SistemaFinanceiro/obj/Debug/netcoreapp2.1/Razor/Views/Terceiros/Index.cshtml.g.cs
                 WriteLiteral("Adicionar");
                 EndContext();
             }
@@ -103,8 +109,33 @@ Write(Html.AjaxGrid(Url.Action("TerceirosGrid")));
             BeginContext(249, 4, true);
             WriteLiteral("\r\n\r\n");
             EndContext();
+<<<<<<< HEAD:SistemaFinanceiro/obj/Debug/netcoreapp2.1/Razor/Views/Acesso/Terceiros.cshtml.g.cs
             BeginContext(253, 54, false);
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "475e77e703c64e3c9d53dd01b3c0254c", async() => {
+=======
+            DefineSection("scripts", async() => {
+                BeginContext(253, 6, true);
+                WriteLiteral("\r\n    ");
+                EndContext();
+                BeginContext(259, 54, false);
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9a62faeb3dd64e57ac015cedbecce2fa", async() => {
+                }
+                );
+                __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
+                __tagHelperExecutionContext.Add(__Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper);
+                __tagHelperExecutionContext.AddHtmlAttribute(__tagHelperAttribute_2);
+                await __tagHelperRunner.RunAsync(__tagHelperExecutionContext);
+                if (!__tagHelperExecutionContext.Output.IsContentModified)
+                {
+                    await __tagHelperExecutionContext.SetOutputContentAsync();
+                }
+                Write(__tagHelperExecutionContext.Output);
+                __tagHelperExecutionContext = __tagHelperScopeManager.End();
+                EndContext();
+                BeginContext(313, 2, true);
+                WriteLiteral("\r\n");
+                EndContext();
+>>>>>>> f23d3bec83a590cd8e376e1b6605986d54d5fcca:SistemaFinanceiro/obj/Debug/netcoreapp2.1/Razor/Views/Terceiros/Index.cshtml.g.cs
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();

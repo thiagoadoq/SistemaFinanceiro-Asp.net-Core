@@ -30,7 +30,7 @@ namespace SistemaFinanceiro.Controllers
         public IActionResult IndexGrid(string search)
         {
             return PartialView(string.IsNullOrWhiteSpace(search) ? _Context.Terceiros.AsQueryable() : _Context.Terceiros.Where(c =>
-                c.Nome.Contains(search) || c.Cpf.Contains(search) || c.Endereco.Contains(search) || c.Cpf.Contains(search)));
+                c.Nome.Contains(search)  || c.Endereco.Contains(search) || c.Telefone.ToString().Contains(search)));
 
         }
 

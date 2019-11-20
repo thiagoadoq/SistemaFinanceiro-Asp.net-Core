@@ -82,6 +82,7 @@ using NonFactors.Mvc.Grid;
             BeginContext(99, 98, true);
             WriteLiteral("\r\n<h2>Adicionar Financeiro</h2>\r\n\r\n<hr />\r\n<div class=\"row\">\r\n    <div class=\"col-md-4\">\r\n        ");
             EndContext();
+<<<<<<< HEAD:SistemaFinanceiro/obj/Debug/netcoreapp2.1/Razor/Views/Acesso/FinanceiroEdit.cshtml.g.cs
             BeginContext(197, 2076, false);
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8b95f1574caa44ce9804595fa89ac7e8", async() => {
                 BeginContext(231, 14, true);
@@ -89,6 +90,15 @@ using NonFactors.Mvc.Grid;
                 EndContext();
                 BeginContext(245, 66, false);
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("div", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "51576666abbb4f66b76f9015b6f1af53", async() => {
+=======
+            BeginContext(186, 2061, false);
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d75637416ad94642ab1ad3f53b086905", async() => {
+                BeginContext(210, 14, true);
+                WriteLiteral("\r\n            ");
+                EndContext();
+                BeginContext(224, 66, false);
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("div", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "38207f689cea4a90b6e341ad49952853", async() => {
+>>>>>>> f23d3bec83a590cd8e376e1b6605986d54d5fcca:SistemaFinanceiro/obj/Debug/netcoreapp2.1/Razor/Views/Financeiro/Edit.cshtml.g.cs
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_ValidationSummaryTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.ValidationSummaryTagHelper>();
@@ -121,9 +131,15 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_ValidationSummaryTagHelper.ValidationSumma
                 BeginContext(359, 56, true);
                 WriteLiteral("\r\n            <div class=\"form-group\">\r\n                ");
                 EndContext();
+<<<<<<< HEAD:SistemaFinanceiro/obj/Debug/netcoreapp2.1/Razor/Views/Acesso/FinanceiroEdit.cshtml.g.cs
                 BeginContext(415, 78, false);
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("label", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "dcc2c6adbc9249fab4b3bd699eba641d", async() => {
                     BeginContext(466, 19, true);
+=======
+                BeginContext(394, 78, false);
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("label", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "02f9bdb6046548438196a751833816ed", async() => {
+                    BeginContext(445, 19, true);
+>>>>>>> f23d3bec83a590cd8e376e1b6605986d54d5fcca:SistemaFinanceiro/obj/Debug/netcoreapp2.1/Razor/Views/Financeiro/Edit.cshtml.g.cs
                     WriteLiteral("Adicionar Terceiros");
                     EndContext();
                 }
@@ -148,6 +164,7 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_LabelTagHelper.For = ModelExpressionProvid
                 BeginContext(493, 18, true);
                 WriteLiteral("\r\n                ");
                 EndContext();
+<<<<<<< HEAD:SistemaFinanceiro/obj/Debug/netcoreapp2.1/Razor/Views/Acesso/FinanceiroEdit.cshtml.g.cs
                 BeginContext(511, 168, false);
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("select", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "993e122a45fd478381f77c24a824cbea", async() => {
                     BeginContext(604, 22, true);
@@ -155,6 +172,15 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_LabelTagHelper.For = ModelExpressionProvid
                     EndContext();
                     BeginContext(626, 26, false);
                     __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ebf9bdba2ca64784af6aa8b873051e04", async() => {
+=======
+                BeginContext(490, 168, false);
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("select", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2b6dcb8f4cc34151bce26b13facc65bb", async() => {
+                    BeginContext(583, 22, true);
+                    WriteLiteral("\r\n                    ");
+                    EndContext();
+                    BeginContext(605, 26, false);
+                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "612c4ab38f1b413b94ce813a455ee752", async() => {
+>>>>>>> f23d3bec83a590cd8e376e1b6605986d54d5fcca:SistemaFinanceiro/obj/Debug/netcoreapp2.1/Razor/Views/Financeiro/Edit.cshtml.g.cs
                     }
                     );
                     __Microsoft_AspNetCore_Mvc_TagHelpers_OptionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.OptionTagHelper>();
@@ -200,8 +226,13 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_SelectTagHelper.Items = (SelectList)ViewBa
                 BeginContext(679, 18, true);
                 WriteLiteral("\r\n                ");
                 EndContext();
+<<<<<<< HEAD:SistemaFinanceiro/obj/Debug/netcoreapp2.1/Razor/Views/Acesso/FinanceiroEdit.cshtml.g.cs
                 BeginContext(697, 66, false);
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("span", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4a86a1a8d4c84e9c98ae81de5c7a258f", async() => {
+=======
+                BeginContext(676, 66, false);
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("span", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "053c8ed3b81c46f7878624e8225518ea", async() => {
+>>>>>>> f23d3bec83a590cd8e376e1b6605986d54d5fcca:SistemaFinanceiro/obj/Debug/netcoreapp2.1/Razor/Views/Financeiro/Edit.cshtml.g.cs
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.ValidationMessageTagHelper>();
@@ -224,9 +255,15 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper.For = ModelExpr
                 BeginContext(763, 76, true);
                 WriteLiteral("\r\n            </div>\r\n            <div class=\"form-group\">\r\n                ");
                 EndContext();
+<<<<<<< HEAD:SistemaFinanceiro/obj/Debug/netcoreapp2.1/Razor/Views/Acesso/FinanceiroEdit.cshtml.g.cs
                 BeginContext(839, 73, false);
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("label", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "63fc7ed0b3214429a1b94e39c58282dd", async() => {
                     BeginContext(891, 13, true);
+=======
+                BeginContext(818, 73, false);
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("label", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c1fdaf43b7d34879aa5df9978c2a1869", async() => {
+                    BeginContext(870, 13, true);
+>>>>>>> f23d3bec83a590cd8e376e1b6605986d54d5fcca:SistemaFinanceiro/obj/Debug/netcoreapp2.1/Razor/Views/Financeiro/Edit.cshtml.g.cs
                     WriteLiteral("Data Cadastro");
                     EndContext();
                 }
@@ -251,8 +288,13 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_LabelTagHelper.For = ModelExpressionProvid
                 BeginContext(912, 18, true);
                 WriteLiteral("\r\n                ");
                 EndContext();
+<<<<<<< HEAD:SistemaFinanceiro/obj/Debug/netcoreapp2.1/Razor/Views/Acesso/FinanceiroEdit.cshtml.g.cs
                 BeginContext(930, 90, false);
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "e9759fbb1bd341fea9f9b5eab24e05cb", async() => {
+=======
+                BeginContext(909, 90, false);
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "b9938e6aa00d4623904fffb973fef3ae", async() => {
+>>>>>>> f23d3bec83a590cd8e376e1b6605986d54d5fcca:SistemaFinanceiro/obj/Debug/netcoreapp2.1/Razor/Views/Financeiro/Edit.cshtml.g.cs
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper>();
@@ -279,8 +321,13 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper.For = ModelExpressionProvid
                 BeginContext(1020, 18, true);
                 WriteLiteral("\r\n                ");
                 EndContext();
+<<<<<<< HEAD:SistemaFinanceiro/obj/Debug/netcoreapp2.1/Razor/Views/Acesso/FinanceiroEdit.cshtml.g.cs
                 BeginContext(1038, 78, false);
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("span", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "32c577e7b42a4eab8a2db0533fa2e2c8", async() => {
+=======
+                BeginContext(1017, 78, false);
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("span", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "cc190032f0b14fd5a1839b0be3a85004", async() => {
+>>>>>>> f23d3bec83a590cd8e376e1b6605986d54d5fcca:SistemaFinanceiro/obj/Debug/netcoreapp2.1/Razor/Views/Financeiro/Edit.cshtml.g.cs
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.ValidationMessageTagHelper>();
@@ -303,9 +350,15 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper.For = ModelExpr
                 BeginContext(1116, 76, true);
                 WriteLiteral("\r\n            </div>\r\n            <div class=\"form-group\">\r\n                ");
                 EndContext();
+<<<<<<< HEAD:SistemaFinanceiro/obj/Debug/netcoreapp2.1/Razor/Views/Acesso/FinanceiroEdit.cshtml.g.cs
                 BeginContext(1192, 77, false);
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("label", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "39b9610789ce4615935ef008c88a76b1", async() => {
                     BeginContext(1246, 15, true);
+=======
+                BeginContext(1171, 77, false);
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("label", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "639cdfa3d6a548689a27bca727848bf6", async() => {
+                    BeginContext(1225, 15, true);
+>>>>>>> f23d3bec83a590cd8e376e1b6605986d54d5fcca:SistemaFinanceiro/obj/Debug/netcoreapp2.1/Razor/Views/Financeiro/Edit.cshtml.g.cs
                     WriteLiteral("Data Referencia");
                     EndContext();
                 }
@@ -330,8 +383,13 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_LabelTagHelper.For = ModelExpressionProvid
                 BeginContext(1269, 18, true);
                 WriteLiteral("\r\n                ");
                 EndContext();
+<<<<<<< HEAD:SistemaFinanceiro/obj/Debug/netcoreapp2.1/Razor/Views/Acesso/FinanceiroEdit.cshtml.g.cs
                 BeginContext(1287, 66, false);
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c3aa998b9e8a4c4fb0abbccea6abccaa", async() => {
+=======
+                BeginContext(1266, 66, false);
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "b74a31a47cfd45dbb2f8eba5d7fe3744", async() => {
+>>>>>>> f23d3bec83a590cd8e376e1b6605986d54d5fcca:SistemaFinanceiro/obj/Debug/netcoreapp2.1/Razor/Views/Financeiro/Edit.cshtml.g.cs
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper>();
@@ -354,8 +412,13 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper.For = ModelExpressionProvid
                 BeginContext(1353, 18, true);
                 WriteLiteral("\r\n                ");
                 EndContext();
+<<<<<<< HEAD:SistemaFinanceiro/obj/Debug/netcoreapp2.1/Razor/Views/Acesso/FinanceiroEdit.cshtml.g.cs
                 BeginContext(1371, 80, false);
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("span", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6810e26db00d46f09256c09bcc35ee6e", async() => {
+=======
+                BeginContext(1350, 80, false);
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("span", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "64fb9af12bd74e40beafb904adb0b38a", async() => {
+>>>>>>> f23d3bec83a590cd8e376e1b6605986d54d5fcca:SistemaFinanceiro/obj/Debug/netcoreapp2.1/Razor/Views/Financeiro/Edit.cshtml.g.cs
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.ValidationMessageTagHelper>();
@@ -378,9 +441,15 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper.For = ModelExpr
                 BeginContext(1451, 76, true);
                 WriteLiteral("\r\n            </div>\r\n            <div class=\"form-group\">\r\n                ");
                 EndContext();
+<<<<<<< HEAD:SistemaFinanceiro/obj/Debug/netcoreapp2.1/Razor/Views/Acesso/FinanceiroEdit.cshtml.g.cs
                 BeginContext(1527, 66, false);
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("label", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "516fbbac821a4b7d887f33b1286aabb3", async() => {
                     BeginContext(1576, 9, true);
+=======
+                BeginContext(1506, 66, false);
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("label", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "58b0e6575e5448a3a9bdf21fe01d8c4b", async() => {
+                    BeginContext(1555, 9, true);
+>>>>>>> f23d3bec83a590cd8e376e1b6605986d54d5fcca:SistemaFinanceiro/obj/Debug/netcoreapp2.1/Razor/Views/Financeiro/Edit.cshtml.g.cs
                     WriteLiteral("Descrição");
                     EndContext();
                 }
@@ -405,8 +474,13 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_LabelTagHelper.For = ModelExpressionProvid
                 BeginContext(1593, 18, true);
                 WriteLiteral("\r\n                ");
                 EndContext();
+<<<<<<< HEAD:SistemaFinanceiro/obj/Debug/netcoreapp2.1/Razor/Views/Acesso/FinanceiroEdit.cshtml.g.cs
                 BeginContext(1611, 50, false);
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "aa47200a2f294f3c902fd0cf4058802a", async() => {
+=======
+                BeginContext(1590, 50, false);
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "f8b265882de442fca1ed4d64c6ede956", async() => {
+>>>>>>> f23d3bec83a590cd8e376e1b6605986d54d5fcca:SistemaFinanceiro/obj/Debug/netcoreapp2.1/Razor/Views/Financeiro/Edit.cshtml.g.cs
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper>();
@@ -429,8 +503,13 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper.For = ModelExpressionProvid
                 BeginContext(1661, 18, true);
                 WriteLiteral("\r\n                ");
                 EndContext();
+<<<<<<< HEAD:SistemaFinanceiro/obj/Debug/netcoreapp2.1/Razor/Views/Acesso/FinanceiroEdit.cshtml.g.cs
                 BeginContext(1679, 64, false);
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("span", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8cb7d0f705c247a9af88d9617502d1b0", async() => {
+=======
+                BeginContext(1658, 64, false);
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("span", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2759e46006024d15be79638268ea1343", async() => {
+>>>>>>> f23d3bec83a590cd8e376e1b6605986d54d5fcca:SistemaFinanceiro/obj/Debug/netcoreapp2.1/Razor/Views/Financeiro/Edit.cshtml.g.cs
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.ValidationMessageTagHelper>();
@@ -453,9 +532,15 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper.For = ModelExpr
                 BeginContext(1743, 76, true);
                 WriteLiteral("\r\n            </div>\r\n            <div class=\"form-group\">\r\n                ");
                 EndContext();
+<<<<<<< HEAD:SistemaFinanceiro/obj/Debug/netcoreapp2.1/Razor/Views/Acesso/FinanceiroEdit.cshtml.g.cs
                 BeginContext(1819, 58, false);
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("label", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fbe9ff2f899445ecaf20e7c0a928d2bb", async() => {
                     BeginContext(1864, 5, true);
+=======
+                BeginContext(1798, 58, false);
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("label", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "23cb93ff5c5b43faa6d8f28fec641066", async() => {
+                    BeginContext(1843, 5, true);
+>>>>>>> f23d3bec83a590cd8e376e1b6605986d54d5fcca:SistemaFinanceiro/obj/Debug/netcoreapp2.1/Razor/Views/Financeiro/Edit.cshtml.g.cs
                     WriteLiteral("Valor");
                     EndContext();
                 }
@@ -480,8 +565,13 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_LabelTagHelper.For = ModelExpressionProvid
                 BeginContext(1877, 18, true);
                 WriteLiteral("\r\n                ");
                 EndContext();
+<<<<<<< HEAD:SistemaFinanceiro/obj/Debug/netcoreapp2.1/Razor/Views/Acesso/FinanceiroEdit.cshtml.g.cs
                 BeginContext(1895, 46, false);
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "5cb79dce74f54179a3943c8c7acdf3b9", async() => {
+=======
+                BeginContext(1874, 46, false);
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "955b2384a1cc45f8a29cae462967f36f", async() => {
+>>>>>>> f23d3bec83a590cd8e376e1b6605986d54d5fcca:SistemaFinanceiro/obj/Debug/netcoreapp2.1/Razor/Views/Financeiro/Edit.cshtml.g.cs
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper>();
@@ -504,8 +594,13 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper.For = ModelExpressionProvid
                 BeginContext(1941, 18, true);
                 WriteLiteral("\r\n                ");
                 EndContext();
+<<<<<<< HEAD:SistemaFinanceiro/obj/Debug/netcoreapp2.1/Razor/Views/Acesso/FinanceiroEdit.cshtml.g.cs
                 BeginContext(1959, 60, false);
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("span", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e3daa11ae4c14a57ab7f230294853c30", async() => {
+=======
+                BeginContext(1938, 60, false);
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("span", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "19ba97810e944909a527f5055e85687c", async() => {
+>>>>>>> f23d3bec83a590cd8e376e1b6605986d54d5fcca:SistemaFinanceiro/obj/Debug/netcoreapp2.1/Razor/Views/Financeiro/Edit.cshtml.g.cs
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.ValidationMessageTagHelper>();
@@ -528,9 +623,15 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper.For = ModelExpr
                 BeginContext(2019, 156, true);
                 WriteLiteral("\r\n            </div>\r\n            <div class=\"form-group\">\r\n                <input type=\"submit\" value=\"Salvar\" class=\"btn btn-primary\" />\r\n                ");
                 EndContext();
+<<<<<<< HEAD:SistemaFinanceiro/obj/Debug/netcoreapp2.1/Razor/Views/Acesso/FinanceiroEdit.cshtml.g.cs
                 BeginContext(2175, 61, false);
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ea2d5c6cb7df4c0eaa486d8a314042ae", async() => {
                     BeginContext(2226, 6, true);
+=======
+                BeginContext(2154, 56, false);
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "34cf98a85cf045efba03ca0c062d4150", async() => {
+                    BeginContext(2200, 6, true);
+>>>>>>> f23d3bec83a590cd8e376e1b6605986d54d5fcca:SistemaFinanceiro/obj/Debug/netcoreapp2.1/Razor/Views/Financeiro/Edit.cshtml.g.cs
                     WriteLiteral("Voltar");
                     EndContext();
                 }

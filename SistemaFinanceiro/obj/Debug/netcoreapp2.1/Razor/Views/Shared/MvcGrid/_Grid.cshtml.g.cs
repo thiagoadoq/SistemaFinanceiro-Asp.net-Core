@@ -398,7 +398,11 @@ WriteAttributeValue(" ", 3325, column.Sort.Order.ToString().ToLower(), 3326, 39,
             WriteLiteral("                                    ");
             EndContext();
             BeginContext(3647, 51, false);
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "273b3b2b9bd9458e807cdba991786f16", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3140f29ff4af4cf380e78314d7e79432", async() => {
+>>>>>>> f23d3bec83a590cd8e376e1b6605986d54d5fcca
                 BeginContext(3678, 11, false);
 #line 62 "C:\PROJETOS\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\Views\Shared\MvcGrid\_Grid.cshtml"
                                                              Write(option.Text);
@@ -559,7 +563,11 @@ WriteAttributeValue(" ", 4537, column.CssClasses, 4538, 18, false);
             WriteLiteral("                                                    ");
             EndContext();
             BeginContext(5267, 60, false);
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "23bd17364055496799f6ca34285a6993", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "17363a7432f54c9d8ca7f30be771b1b3", async() => {
+>>>>>>> f23d3bec83a590cd8e376e1b6605986d54d5fcca
                 BeginContext(5307, 11, false);
 #line 93 "C:\PROJETOS\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\Views\Shared\MvcGrid\_Grid.cshtml"
                                                                                       Write(option.Text);
@@ -605,7 +613,11 @@ WriteAttributeValue(" ", 4537, column.CssClasses, 4538, 18, false);
             WriteLiteral("                                                    ");
             EndContext();
             BeginContext(5537, 51, false);
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bb75643475ad46f2adbe183eb3756727", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b9377ca8b7cd46c29042502a409906ee", async() => {
+>>>>>>> f23d3bec83a590cd8e376e1b6605986d54d5fcca
                 BeginContext(5568, 11, false);
 #line 97 "C:\PROJETOS\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\Views\Shared\MvcGrid\_Grid.cshtml"
                                                                              Write(option.Text);

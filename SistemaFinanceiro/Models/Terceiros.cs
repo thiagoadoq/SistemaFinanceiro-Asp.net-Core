@@ -10,13 +10,15 @@ namespace SistemaFinanceiro.Models
     {
         public int Id { get; set; }
 
+        [DisplayFormat(DataFormatString = "dd/mm/aaaa")]
         public DateTime? DataCadastro { get; set; } = DateTime.Now;
 
-        [Required]
+        [Required]        
         public string Nome { get; set; }
         public string Cnh { get; set; }
         public string Cpf { get; set; }
         public string Endereco { get; set; }
+        [Required]
         public string Telefone { get; set; }
 
         public virtual ICollection<Financeriros> ListaDeFinanceriros { get; set; } = new List<Financeriros>();

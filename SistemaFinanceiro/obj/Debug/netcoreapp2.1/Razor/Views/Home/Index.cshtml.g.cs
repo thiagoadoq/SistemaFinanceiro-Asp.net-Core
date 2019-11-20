@@ -68,8 +68,13 @@ using NonFactors.Mvc.Grid;
             BeginContext(40, 102, true);
             WriteLiteral("\r\n<!-- ======================================= SLIDESHOW ======================================= -->\r\n");
             EndContext();
+<<<<<<< HEAD
             BeginContext(142, 26, false);
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c8559d55f5f54bc2a282303e6065864e", async() => {
+=======
+            BeginContext(484, 71, false);
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "9c035b582e654a95a839895f88fd323b", async() => {
+>>>>>>> f23d3bec83a590cd8e376e1b6605986d54d5fcca
             }
             );
             __Microsoft_AspNetCore_Mvc_TagHelpers_PartialTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper>();
@@ -87,8 +92,13 @@ using NonFactors.Mvc.Grid;
             BeginContext(168, 102, true);
             WriteLiteral("\r\n<!-- ====================================== INFORMACOES ====================================== -->\r\n");
             EndContext();
+<<<<<<< HEAD
             BeginContext(270, 31, false);
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "44ef9279340046889cc3b7e9ead2f20b", async() => {
+=======
+            BeginContext(641, 57, false);
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "af3fe900a3fb4d4c9bdd7f8e09cdaeb4", async() => {
+>>>>>>> f23d3bec83a590cd8e376e1b6605986d54d5fcca
             }
             );
             __Microsoft_AspNetCore_Mvc_TagHelpers_PartialTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper>();
@@ -106,8 +116,13 @@ using NonFactors.Mvc.Grid;
             BeginContext(301, 102, true);
             WriteLiteral("\r\n<!-- ======================================= QUEM SOMOS ====================================== -->\r\n");
             EndContext();
+<<<<<<< HEAD
             BeginContext(403, 24, false);
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "819dbead080a4948b284d26e11735c3e", async() => {
+=======
+            BeginContext(769, 57, false);
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "00d3805b526043bbace11e29e44b065a", async() => {
+>>>>>>> f23d3bec83a590cd8e376e1b6605986d54d5fcca
             }
             );
             __Microsoft_AspNetCore_Mvc_TagHelpers_PartialTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper>();

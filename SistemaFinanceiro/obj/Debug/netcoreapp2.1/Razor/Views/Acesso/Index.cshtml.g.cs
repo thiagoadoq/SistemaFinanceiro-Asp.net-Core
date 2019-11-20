@@ -40,6 +40,7 @@ using NonFactors.Mvc.Grid;
             EndContext();
 #line 51 "C:\PROJETOS\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\Views\Acesso\Index.cshtml"
   
+<<<<<<< HEAD
     ViewBag.Title = "Início";
     Layout = "~/Views/Shared/_Painel.cshtml";
 
@@ -47,6 +48,299 @@ using NonFactors.Mvc.Grid;
 #line hidden
             BeginContext(1668, 141, true);
             WriteLiteral("\r\n<div class=\"jumbotron\">\r\n    <h1>Painel Administrativo</h1>\r\n    <p>Bem-Vindo ao painel administrativo gerenciador de conteúdo.</p>\r\n</div>");
+=======
+    Layout = null;
+
+#line default
+#line hidden
+            BeginContext(74, 29, true);
+            WriteLiteral("\r\n<!DOCTYPE html>\r\n\r\n<html>\r\n");
+            EndContext();
+            BeginContext(103, 100, false);
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "57856d3f38144e05b0bed1a820c96bf8", async() => {
+                BeginContext(109, 87, true);
+                WriteLiteral("\r\n    <meta name=\"viewport\" content=\"width=device-width\" />\r\n    <title>Index</title>\r\n");
+                EndContext();
+            }
+            );
+            __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_HeadTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.HeadTagHelper>();
+            __tagHelperExecutionContext.Add(__Microsoft_AspNetCore_Mvc_Razor_TagHelpers_HeadTagHelper);
+            await __tagHelperRunner.RunAsync(__tagHelperExecutionContext);
+            if (!__tagHelperExecutionContext.Output.IsContentModified)
+            {
+                await __tagHelperExecutionContext.SetOutputContentAsync();
+            }
+            Write(__tagHelperExecutionContext.Output);
+            __tagHelperExecutionContext = __tagHelperScopeManager.End();
+            EndContext();
+            BeginContext(203, 2, true);
+            WriteLiteral("\r\n");
+            EndContext();
+            BeginContext(205, 1359, false);
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fdab06b751a54657baba11bf9fb56907", async() => {
+                BeginContext(211, 109, true);
+                WriteLiteral("\r\n\r\n    <h4>AcessoModel</h4>\r\n    <hr />\r\n    <div class=\"row\">\r\n        <div class=\"col-md-4\">\r\n            ");
+                EndContext();
+                BeginContext(320, 1102, false);
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a97e2cbd0b65455db996d1b2e34dd8d7", async() => {
+                    BeginContext(345, 18, true);
+                    WriteLiteral("\r\n                ");
+                    EndContext();
+                    BeginContext(364, 53, false);
+#line 21 "C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\Views\Acesso\Index.cshtml"
+           Write(Html.Hidden("returnUrl", ViewBag.returnUrl as string));
+
+#line default
+#line hidden
+                    EndContext();
+                    BeginContext(417, 2, true);
+                    WriteLiteral("\r\n");
+                    EndContext();
+#line 22 "C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\Views\Acesso\Index.cshtml"
+                 if (ViewBag.Messagen != null)
+                {
+
+#line default
+#line hidden
+                    BeginContext(486, 43, true);
+                    WriteLiteral("                    <p class=\"text-danger\">");
+                    EndContext();
+                    BeginContext(530, 16, false);
+#line 24 "C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\Views\Acesso\Index.cshtml"
+                                      Write(ViewBag.Messagen);
+
+#line default
+#line hidden
+                    EndContext();
+                    BeginContext(546, 6, true);
+                    WriteLiteral("</p>\r\n");
+                    EndContext();
+#line 25 "C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\Views\Acesso\Index.cshtml"
+                }
+
+#line default
+#line hidden
+                    BeginContext(571, 16, true);
+                    WriteLiteral("                ");
+                    EndContext();
+                    BeginContext(587, 66, false);
+                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("div", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0e632579e6984483bd9fa034b52a0fca", async() => {
+                    }
+                    );
+                    __Microsoft_AspNetCore_Mvc_TagHelpers_ValidationSummaryTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.ValidationSummaryTagHelper>();
+                    __tagHelperExecutionContext.Add(__Microsoft_AspNetCore_Mvc_TagHelpers_ValidationSummaryTagHelper);
+#line 26 "C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\Views\Acesso\Index.cshtml"
+__Microsoft_AspNetCore_Mvc_TagHelpers_ValidationSummaryTagHelper.ValidationSummary = global::Microsoft.AspNetCore.Mvc.Rendering.ValidationSummary.ModelOnly;
+
+#line default
+#line hidden
+                    __tagHelperExecutionContext.AddTagHelperAttribute("asp-validation-summary", __Microsoft_AspNetCore_Mvc_TagHelpers_ValidationSummaryTagHelper.ValidationSummary, global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
+                    __tagHelperExecutionContext.AddHtmlAttribute(__tagHelperAttribute_0);
+                    await __tagHelperRunner.RunAsync(__tagHelperExecutionContext);
+                    if (!__tagHelperExecutionContext.Output.IsContentModified)
+                    {
+                        await __tagHelperExecutionContext.SetOutputContentAsync();
+                    }
+                    Write(__tagHelperExecutionContext.Output);
+                    __tagHelperExecutionContext = __tagHelperScopeManager.End();
+                    EndContext();
+                    BeginContext(653, 64, true);
+                    WriteLiteral("\r\n                <div class=\"form-group\">\r\n                    ");
+                    EndContext();
+                    BeginContext(717, 53, false);
+                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("label", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1c078581160f41fa99dd15db343f7cbf", async() => {
+                    }
+                    );
+                    __Microsoft_AspNetCore_Mvc_TagHelpers_LabelTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.LabelTagHelper>();
+                    __tagHelperExecutionContext.Add(__Microsoft_AspNetCore_Mvc_TagHelpers_LabelTagHelper);
+#line 28 "C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\Views\Acesso\Index.cshtml"
+__Microsoft_AspNetCore_Mvc_TagHelpers_LabelTagHelper.For = ModelExpressionProvider.CreateModelExpression(ViewData, __model => __model.Email);
+
+#line default
+#line hidden
+                    __tagHelperExecutionContext.AddTagHelperAttribute("asp-for", __Microsoft_AspNetCore_Mvc_TagHelpers_LabelTagHelper.For, global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
+                    __tagHelperExecutionContext.AddHtmlAttribute(__tagHelperAttribute_1);
+                    await __tagHelperRunner.RunAsync(__tagHelperExecutionContext);
+                    if (!__tagHelperExecutionContext.Output.IsContentModified)
+                    {
+                        await __tagHelperExecutionContext.SetOutputContentAsync();
+                    }
+                    Write(__tagHelperExecutionContext.Output);
+                    __tagHelperExecutionContext = __tagHelperScopeManager.End();
+                    EndContext();
+                    BeginContext(770, 22, true);
+                    WriteLiteral("\r\n                    ");
+                    EndContext();
+                    BeginContext(792, 46, false);
+                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "492ee507f9b84fafb0c350fbcda16656", async() => {
+                    }
+                    );
+                    __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper>();
+                    __tagHelperExecutionContext.Add(__Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper);
+#line 29 "C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\Views\Acesso\Index.cshtml"
+__Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper.For = ModelExpressionProvider.CreateModelExpression(ViewData, __model => __model.Email);
+
+#line default
+#line hidden
+                    __tagHelperExecutionContext.AddTagHelperAttribute("asp-for", __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper.For, global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
+                    __tagHelperExecutionContext.AddHtmlAttribute(__tagHelperAttribute_2);
+                    await __tagHelperRunner.RunAsync(__tagHelperExecutionContext);
+                    if (!__tagHelperExecutionContext.Output.IsContentModified)
+                    {
+                        await __tagHelperExecutionContext.SetOutputContentAsync();
+                    }
+                    Write(__tagHelperExecutionContext.Output);
+                    __tagHelperExecutionContext = __tagHelperScopeManager.End();
+                    EndContext();
+                    BeginContext(838, 22, true);
+                    WriteLiteral("\r\n                    ");
+                    EndContext();
+                    BeginContext(860, 60, false);
+                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("span", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e64b299b33d14a6d99fb9633750fdaa2", async() => {
+                    }
+                    );
+                    __Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.ValidationMessageTagHelper>();
+                    __tagHelperExecutionContext.Add(__Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper);
+#line 30 "C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\Views\Acesso\Index.cshtml"
+__Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper.For = ModelExpressionProvider.CreateModelExpression(ViewData, __model => __model.Email);
+
+#line default
+#line hidden
+                    __tagHelperExecutionContext.AddTagHelperAttribute("asp-validation-for", __Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper.For, global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
+                    __tagHelperExecutionContext.AddHtmlAttribute(__tagHelperAttribute_0);
+                    await __tagHelperRunner.RunAsync(__tagHelperExecutionContext);
+                    if (!__tagHelperExecutionContext.Output.IsContentModified)
+                    {
+                        await __tagHelperExecutionContext.SetOutputContentAsync();
+                    }
+                    Write(__tagHelperExecutionContext.Output);
+                    __tagHelperExecutionContext = __tagHelperScopeManager.End();
+                    EndContext();
+                    BeginContext(920, 88, true);
+                    WriteLiteral("\r\n                </div>\r\n                <div class=\"form-group\">\r\n                    ");
+                    EndContext();
+                    BeginContext(1008, 53, false);
+                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("label", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f2e9da20350d4208819466aa5b59f563", async() => {
+                    }
+                    );
+                    __Microsoft_AspNetCore_Mvc_TagHelpers_LabelTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.LabelTagHelper>();
+                    __tagHelperExecutionContext.Add(__Microsoft_AspNetCore_Mvc_TagHelpers_LabelTagHelper);
+#line 33 "C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\Views\Acesso\Index.cshtml"
+__Microsoft_AspNetCore_Mvc_TagHelpers_LabelTagHelper.For = ModelExpressionProvider.CreateModelExpression(ViewData, __model => __model.Senha);
+
+#line default
+#line hidden
+                    __tagHelperExecutionContext.AddTagHelperAttribute("asp-for", __Microsoft_AspNetCore_Mvc_TagHelpers_LabelTagHelper.For, global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
+                    __tagHelperExecutionContext.AddHtmlAttribute(__tagHelperAttribute_1);
+                    await __tagHelperRunner.RunAsync(__tagHelperExecutionContext);
+                    if (!__tagHelperExecutionContext.Output.IsContentModified)
+                    {
+                        await __tagHelperExecutionContext.SetOutputContentAsync();
+                    }
+                    Write(__tagHelperExecutionContext.Output);
+                    __tagHelperExecutionContext = __tagHelperScopeManager.End();
+                    EndContext();
+                    BeginContext(1061, 22, true);
+                    WriteLiteral("\r\n                    ");
+                    EndContext();
+                    BeginContext(1083, 63, false);
+                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "fad866c2f64b4afab2be646d34805b23", async() => {
+                    }
+                    );
+                    __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper>();
+                    __tagHelperExecutionContext.Add(__Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper);
+#line 34 "C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\Views\Acesso\Index.cshtml"
+__Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper.For = ModelExpressionProvider.CreateModelExpression(ViewData, __model => __model.Senha);
+
+#line default
+#line hidden
+                    __tagHelperExecutionContext.AddTagHelperAttribute("asp-for", __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper.For, global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
+                    __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper.InputTypeName = (string)__tagHelperAttribute_3.Value;
+                    __tagHelperExecutionContext.AddTagHelperAttribute(__tagHelperAttribute_3);
+                    __tagHelperExecutionContext.AddHtmlAttribute(__tagHelperAttribute_2);
+                    await __tagHelperRunner.RunAsync(__tagHelperExecutionContext);
+                    if (!__tagHelperExecutionContext.Output.IsContentModified)
+                    {
+                        await __tagHelperExecutionContext.SetOutputContentAsync();
+                    }
+                    Write(__tagHelperExecutionContext.Output);
+                    __tagHelperExecutionContext = __tagHelperScopeManager.End();
+                    EndContext();
+                    BeginContext(1146, 22, true);
+                    WriteLiteral("\r\n                    ");
+                    EndContext();
+                    BeginContext(1168, 59, false);
+                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("span", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0aa50ffc8b3a4c8eb317cc4b0e867d8d", async() => {
+                    }
+                    );
+                    __Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.ValidationMessageTagHelper>();
+                    __tagHelperExecutionContext.Add(__Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper);
+#line 35 "C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\Views\Acesso\Index.cshtml"
+__Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper.For = ModelExpressionProvider.CreateModelExpression(ViewData, __model => __model.Senha);
+
+#line default
+#line hidden
+                    __tagHelperExecutionContext.AddTagHelperAttribute("asp-validation-for", __Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper.For, global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
+                    __tagHelperExecutionContext.AddHtmlAttribute(__tagHelperAttribute_0);
+                    await __tagHelperRunner.RunAsync(__tagHelperExecutionContext);
+                    if (!__tagHelperExecutionContext.Output.IsContentModified)
+                    {
+                        await __tagHelperExecutionContext.SetOutputContentAsync();
+                    }
+                    Write(__tagHelperExecutionContext.Output);
+                    __tagHelperExecutionContext = __tagHelperScopeManager.End();
+                    EndContext();
+                    BeginContext(1227, 188, true);
+                    WriteLiteral("\r\n                </div>\r\n                <div class=\"form-group\">\r\n                    <input type=\"submit\" value=\"Entrar\" class=\"btn btn-default\" />\r\n                </div>\r\n            ");
+                    EndContext();
+                }
+                );
+                __Microsoft_AspNetCore_Mvc_TagHelpers_FormTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper>();
+                __tagHelperExecutionContext.Add(__Microsoft_AspNetCore_Mvc_TagHelpers_FormTagHelper);
+                __Microsoft_AspNetCore_Mvc_TagHelpers_RenderAtEndOfFormTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.RenderAtEndOfFormTagHelper>();
+                __tagHelperExecutionContext.Add(__Microsoft_AspNetCore_Mvc_TagHelpers_RenderAtEndOfFormTagHelper);
+                __Microsoft_AspNetCore_Mvc_TagHelpers_FormTagHelper.Action = (string)__tagHelperAttribute_4.Value;
+                __tagHelperExecutionContext.AddTagHelperAttribute(__tagHelperAttribute_4);
+                await __tagHelperRunner.RunAsync(__tagHelperExecutionContext);
+                if (!__tagHelperExecutionContext.Output.IsContentModified)
+                {
+                    await __tagHelperExecutionContext.SetOutputContentAsync();
+                }
+                Write(__tagHelperExecutionContext.Output);
+                __tagHelperExecutionContext = __tagHelperScopeManager.End();
+                EndContext();
+                BeginContext(1422, 32, true);
+                WriteLiteral("\r\n        </div>\r\n    </div>\r\n\r\n");
+                EndContext();
+                DefineSection("Scripts", async() => {
+                    BeginContext(1476, 2, true);
+                    WriteLiteral("\r\n");
+                    EndContext();
+#line 45 "C:\Projetos\Projeto GitHub\SistemaFinanceiro-Asp.net-Core\SistemaFinanceiro\Views\Acesso\Index.cshtml"
+          await Html.RenderPartialAsync("_ValidationScriptsPartial");
+
+#line default
+#line hidden
+                    BeginContext(1550, 4, true);
+                    WriteLiteral("    ");
+                    EndContext();
+                }
+                );
+            }
+            );
+            __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_BodyTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.BodyTagHelper>();
+            __tagHelperExecutionContext.Add(__Microsoft_AspNetCore_Mvc_Razor_TagHelpers_BodyTagHelper);
+            await __tagHelperRunner.RunAsync(__tagHelperExecutionContext);
+            if (!__tagHelperExecutionContext.Output.IsContentModified)
+            {
+                await __tagHelperExecutionContext.SetOutputContentAsync();
+            }
+            Write(__tagHelperExecutionContext.Output);
+            __tagHelperExecutionContext = __tagHelperScopeManager.End();
+            EndContext();
+            BeginContext(1564, 11, true);
+            WriteLiteral("\r\n</html>\r\n");
+>>>>>>> f23d3bec83a590cd8e376e1b6605986d54d5fcca
             EndContext();
         }
         #pragma warning restore 1998
