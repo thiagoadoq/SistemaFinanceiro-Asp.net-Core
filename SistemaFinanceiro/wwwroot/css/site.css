@@ -1,16 +1,18 @@
 ﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification\ 
 for details on configuring this project to bundle and minify static web assets. */
 body {
-    padding-top: 50px;
-    padding-bottom: 20px;
+    margin: 0;
+    top: 0;
+    padding: 0;
+
 }
 
 /* Wrapping element */
-/* Set some basic padding to keep content from hitting the edges */
+/* Set some basic padding to keep content from hitting the edges 
 .body-content {
     padding-left: 15px;
     padding-right: 15px;
-}
+}*/
 
 /* Carousel */
 .carousel-caption p {
@@ -38,7 +40,7 @@ body {
 
 /* Estilização do carrossel */
 .carousel-inner {
-    max-height: 300px !important;
+    max-height: 450px !important;
 }
 
 .carousel-inner > .item > img {

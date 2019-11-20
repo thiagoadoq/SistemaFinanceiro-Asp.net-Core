@@ -25,7 +25,8 @@ namespace SistemaFinanceiro.Migrations
                         .ValueGeneratedOnAdd()
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-                    b.Property<DateTime>("DataCadastro");
+                    b.Property<DateTime?>("DataCadastro")
+                        .IsRequired();
 
                     b.Property<DateTime?>("DataReferencia")
                         .IsRequired();

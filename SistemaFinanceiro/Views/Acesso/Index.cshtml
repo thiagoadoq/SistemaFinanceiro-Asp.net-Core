@@ -1,4 +1,4 @@
-﻿@model SistemaFinanceiro.Models.AcessoModel
+﻿@*@model SistemaFinanceiro.Models.AcessoModel
 
 @{
     Layout = null;
@@ -31,8 +31,8 @@
                 </div>
                 <div class="form-group">
                     <label asp-for="Senha" class="control-label"></label>
-                    <input asp-for="Senha"  type="password" class="form-control" />
-                    <span asp-validation-for="Senha"class="text-danger"></span>
+                    <input asp-for="Senha" type="password" class="form-control" />
+                    <span asp-validation-for="Senha" class="text-danger"></span>
                 </div>
                 <div class="form-group">
                     <input type="submit" value="Entrar" class="btn btn-default" />
@@ -45,4 +45,15 @@
         @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
     }
 </body>
-</html>
+</html>*@
+
+
+@{
+    ViewBag.Title = "Início";
+    Layout = "~/Views/Shared/_Painel.cshtml";
+}
+
+<div class="jumbotron">
+    <h1>Painel Administrativo</h1>
+    <p>Bem-Vindo ao painel administrativo gerenciador de conteúdo.</p>
+</div>

@@ -5,14 +5,41 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.App" />
-    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
-    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.9" />
-    <PackageReference Include="NonFactors.Grid.Core.Mvc6" Version="4.1.0" />
+    <Compile Remove="Views\Financeiro\**" />
+    <Compile Remove="Views\Terceiros\**" />
+    <Compile Remove="Views\Usuario\**" />
+    <Content Remove="Views\Financeiro\**" />
+    <Content Remove="Views\Terceiros\**" />
+    <Content Remove="Views\Usuario\**" />
+    <EmbeddedResource Remove="Views\Financeiro\**" />
+    <EmbeddedResource Remove="Views\Terceiros\**" />
+    <EmbeddedResource Remove="Views\Usuario\**" />
+    <None Remove="Views\Financeiro\**" />
+    <None Remove="Views\Terceiros\**" />
+    <None Remove="Views\Usuario\**" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Migrations\" />
+    <Compile Remove="Controllers\FinanceiroController.cs" />
+    <Compile Remove="Controllers\TerceirosController.cs" />
+    <Compile Remove="Controllers\UsuarioController.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="Views\Home\About.cshtml" />
+    <Content Remove="Views\Home\Contact.cshtml" />
+    <Content Remove="Views\Home\Privacy.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FontAwesome" Version="4.7.0" />
+    <PackageReference Include="MailKit" Version="2.4.1" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.1.1" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.10" />
+    <PackageReference Include="NonFactors.Grid.Core.Mvc6" Version="4.1.0" />
   </ItemGroup>
 
 </Project>

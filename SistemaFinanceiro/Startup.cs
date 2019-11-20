@@ -45,7 +45,7 @@ namespace SistemaFinanceiro
                 options.Cookie.Name = ".Financeiro.Session";
             });
 
-            var conection = "Server=DESKTOP-KCPS9FF;DataBase=FinanceiroConstru;User Id=sa;Password=1323;";
+            var conection = "Server=DESKTOP-BGQGR5R\\SQLEXPRESS;DataBase=FinanceiroConstru;User Id=sa;Password=100nha;";
 
             //string de cenexao
             services.AddDbContext<AppDbContext>(options => options.UseSqlServer(conection));

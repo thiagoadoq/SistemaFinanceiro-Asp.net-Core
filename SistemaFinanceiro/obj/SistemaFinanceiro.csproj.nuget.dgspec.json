@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\Projeto GitHub\\SistemaFinanceiro-Asp.net-Core\\SistemaFinanceiro\\SistemaFinanceiro.csproj": {}
+    "C:\\PROJETOS\\SistemaFinanceiro-Asp.net-Core\\SistemaFinanceiro\\SistemaFinanceiro.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\Projeto GitHub\\SistemaFinanceiro-Asp.net-Core\\SistemaFinanceiro\\SistemaFinanceiro.csproj": {
+    "C:\\PROJETOS\\SistemaFinanceiro-Asp.net-Core\\SistemaFinanceiro\\SistemaFinanceiro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Projeto GitHub\\SistemaFinanceiro-Asp.net-Core\\SistemaFinanceiro\\SistemaFinanceiro.csproj",
+        "projectUniqueName": "C:\\PROJETOS\\SistemaFinanceiro-Asp.net-Core\\SistemaFinanceiro\\SistemaFinanceiro.csproj",
         "projectName": "SistemaFinanceiro",
-        "projectPath": "C:\\Projetos\\Projeto GitHub\\SistemaFinanceiro-Asp.net-Core\\SistemaFinanceiro\\SistemaFinanceiro.csproj",
-        "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Projeto GitHub\\SistemaFinanceiro-Asp.net-Core\\SistemaFinanceiro\\obj\\",
+        "projectPath": "C:\\PROJETOS\\SistemaFinanceiro-Asp.net-Core\\SistemaFinanceiro\\SistemaFinanceiro.csproj",
+        "packagesPath": "C:\\Users\\alyce\\.nuget\\packages\\",
+        "outputPath": "C:\\PROJETOS\\SistemaFinanceiro-Asp.net-Core\\SistemaFinanceiro\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\thiag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alyce\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -41,6 +38,14 @@
       "frameworks": {
         "netcoreapp2.1": {
           "dependencies": {
+            "FontAwesome": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "MailKit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
               "target": "Package",
@@ -52,6 +57,14 @@
               "target": "Package",
               "version": "[2.1.2, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
@@ -60,7 +73,7 @@
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[2.1.9, )"
+              "version": "[2.1.10, )"
             },
             "NonFactors.Grid.Core.Mvc6": {
               "target": "Package",

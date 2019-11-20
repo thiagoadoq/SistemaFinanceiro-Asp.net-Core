@@ -1,0 +1,18 @@
+﻿@model IEnumerable<SistemaFinanceiro.Models.Financeriros>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2></h2>
+
+<p>
+    <a asp-action="Edit" class="btn btn-primary">Adicionar</a>
+</p>
+
+
+@Html.AjaxGrid(Url.Action("IndexGrid"))
+
+@*@section scripts{
+    <script src="~/js/mvc-grid/mvc-grid.util.js"></script>
+}*@
